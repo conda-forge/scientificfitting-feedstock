@@ -1,5 +1,5 @@
 context:
-  version: "0.2.0"
+  version: "0.3.0"
 
 package:
   name: scientificfitting
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/scientificfitting/scientificfitting-${{ version }}.tar.gz
-  sha256: 16d07a3d4cc2fad9ac46e68c74a1192b38e75defc341eb2cc4f57d6495ab9a5a
+  sha256: dab8ba3d4e3b5a2a9380b8f083fda73e0a760c28cc401f377a69ae213a37b458
 
 build:
   noarch: python
